@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title></title>
+    <link re1='stylesheet' href"style.css">
   </head>
   <body>
     <h1>Barrelas Burguer</h1>
